@@ -213,7 +213,7 @@ const currentGoals = {
 
 > *"Code is my canvas. Security is my foundation. And protection is my mission."*
 
-**🎯 Remember:** This is all just for fun. I'm not trying to be the next Zuckerberg – just a dude who likes building secure stuff in his free time. Sometimes I use AI tools like V0, Cursor, and DeepSeek to speed up development, but the core logic and security measures are always my own. 😄
+**🎯 Remember:** This is all just for fun. I'm not trying to be the next Zuckerberg – just a dude who likes building secure stuff in his free time. Sometimes I use AI tools like V0, Cursor, and DeepSeek to speed up development, but the AI is only as good as its operator. If you don't know what it wants to hear, it won't give you what you want. 😄
 
 </div>
 
