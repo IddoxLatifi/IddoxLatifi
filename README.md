@@ -10,28 +10,6 @@
 
 ---
 
-
-## 🎭 **The Iddox Story**
-
-```javascript
-const IddoxLatifi = {
-  name: "Iddox Latifi",
-  title: "Self-Taught Full Stack Software Engineer",
-  location: "Digital Realm",
-  passion: "Building cool shit that actually works",
-  education: "University of Stack Overflow",
-  degree: "PhD in Breaking Things (on purpose)",
-  motto: "No degree. No roadmap. Just pure code magic.",
-  funFact: "I debug while others sleep",
-  status: "Always coding, occasionally eating",
-  aiUsage: "100% transparent about it",
-  lastTimeWithoutAI: "Probably never",
-  skillLevel: "Professional Googler"
-};
-```
-
----
-
 ## 🛠️ **Tech Arsenal**
 
 <div align="center">
@@ -56,43 +34,9 @@ const IddoxLatifi = {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 🛡️ **Security & Specialties**
-![Discord.js](https://img.shields.io/badge/Discord.js-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Cryptography](https://img.shields.io/badge/Cryptography-Expert-red?style=for-the-badge)
-
-</div>
-
----
-
-## 🚀 **Featured Projects**
-
-<div align="center">
-
-### 🔐 **RPF Locker Tool**
-> *Security-focused Python/PyQt6 tool for GTA modding*
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white)
-![Security](https://img.shields.io/badge/Security-Focused-red?style=flat-square)
-
----
-
-### 🤖 **Advanced Discord Bot**
-> *Modular Discord bot with custom slash commands, role management, and dynamic permissions*
-
-![Discord.js](https://img.shields.io/badge/Discord.js-7289DA?style=flat-square&logo=discord&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Modular](https://img.shields.io/badge/Modular-Architecture-blue?style=flat-square)
-
----
-
-### 🛡️ **Security Projects**
-> *Tools focused on protection, encryption, and secure development practices*
-
-![Cryptography](https://img.shields.io/badge/Cryptography-Expert-red?style=flat-square)
-![Security](https://img.shields.io/badge/Security-Focused-orange?style=flat-square)
-![Protection](https://img.shields.io/badge/Protection-Tools-blue?style=flat-square)
 
 </div>
 
@@ -112,30 +56,6 @@ const IddoxLatifi = {
 
 ---
 
-## 🎯 **Development Philosophy**
-
-<div align="center">
-
-```javascript
-// Security-First Development Approach
-const developmentPhilosophy = {
-  priority: "Security over convenience",
-  approach: "Build with protection in mind",
-  tools: ["V0", "Cursor", "DeepSeek"],
-  mindset: "Think like an attacker, code like a defender",
-  principle: "Better safe than sorry",
-  focus: "Creating secure, reliable applications"
-};
-
-// Sometimes I use AI tools to speed up development
-// But the core logic and security measures are always my own
-console.log("Security first, everything else second! 🔒");
-```
-
-
-</div>
-
----
 
 ## 🎪 **Fun Facts & Quirks**
 
@@ -164,7 +84,7 @@ const currentGoals = {
   learning: "New protection methods and encryption",
   nextProject: "Enhanced security tools",
   motivation: "Making the digital world safer",
-  status: "Always learning, always protecting"
+  status: "Always learning"
 };
 ```
 
