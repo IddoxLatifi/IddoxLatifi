@@ -10,6 +10,7 @@
 
 ---
 
+
 ## 🎭 **The Iddox Story**
 
 ```javascript
@@ -172,23 +173,19 @@ const currentGoals = {
 
 ---
 
-## 🌟 **Profile Rating: 8.5/10**
+## ⚡ **Live Status Dashboard**
 
 <div align="center">
 
-### ✅ **Strengths**
-- 🎯 Diverse project portfolio
-- 🚀 Active development
-- 🔧 Multiple programming languages
-- 🌍 Real-world applications
-- 📝 Clean code structure
-- 🛡️ Security-focused development
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=2000&color=00FF41&center=true&vCenter=true&width=500&lines=🖥️+Currently+Working+On...;🔐+Security+Tools+Development;🐛+Debugging+Mode+%3A+ACTIVE;☕+Coffee+Level+%3A+CRITICAL;🎯+Focus+Mode+%3A+ENABLED;🚀+Next+Project+%3A+Loading..." alt="Live Status" />
 
-### 📈 **Areas for Growth**
-- ⭐ Increase repository stars
-- 🤝 More collaborative projects
-- 📚 Enhanced documentation
-- 🌐 Community engagement
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1500&color=00FF41&center=true&vCenter=true&width=600&lines=⚡+System+Status+%7C+🟢+Online+%7C+🛡️+Security+Active+%7C+🔧+Development+Mode;💻+IDE+%7C+🟢+Running+%7C+🎨+Theme+%3A+Dark+%7C+⌨️+Keyboard+%3A+Smoking;🌐+Internet+%7C+🟢+Connected+%7C+📡+Speed+%3A+Fast+%7C+🔒+VPN+%3A+Active;🎮+Gaming+%7C+🔴+Paused+%7C+🎯+Priority+%3A+Code+First+%7C+⏰+Sleep+%3A+Optional" alt="System Status" />
+
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=3000&color=00FF41&center=true&vCenter=true&width=700&lines=🎭+Developer+Mode+%3A+ACTIVATED+%7C+🎪+Showtime+%3A+24%2F7+%7C+🎨+Creativity+%3A+MAXIMUM;🛡️+Security+Protocol+%3A+ENGAGED+%7C+🔐+Encryption+%3A+ACTIVE+%7C+🛠️+Tools+%3A+READY;🚀+Innovation+Engine+%3A+RUNNING+%7C+💡+Ideas+%3A+FLOWING+%7C+🎯+Target+%3A+EXCELLENCE" alt="Developer Status" />
 
 </div>
 
