@@ -42,34 +42,6 @@
 
 ---
 
-## 📊 **GitHub Analytics**
-
-<div align="center">
-
-![IddoxLatifi's GitHub stats](https://github-readme-stats.vercel.app/api?username=IddoxLatifi&show_icons=true&theme=gruvbox&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IddoxLatifi&layout=compact&theme=gruvbox&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=IddoxLatifi&theme=gruvbox&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff)
-
-</div>
-
----
-
-
-## 🎪 **Fun Facts & Quirks**
-
-<div align="center">
-
-| 🎮 | I think of code when I'm not coding (it's a hobby, not an obsession... okay, maybe a little obsession 😅) |
-|---|---|
-| 🐛 | I once spent 8 hours debugging a missing semicolon (never again, thanks AI for catching those now!) |
-| 📚 | My RTFM skills are elite (and yes, I still RTFM even with AI) |
-| 🛠️ | I've built tools that look like malware… but just automate cool stuff. 😎 |
-| 💬 | I speak fluent: `console.log("Hello world")` and `console.log("Thanks AI for the help!")` |
-| 👫 | My girlfriend thinks I'm talking to myself when I'm actually debugging with AI. 🤖💬 |
-
-</div>
 
 ---
 
@@ -121,17 +93,6 @@ const currentGoals = {
 
 </div>
 
----
-
-## 🎭 **Final Words**
-
-<div align="center">
-
-> *"Code is my canvas. Security is my foundation. And protection is my mission."*
-
-**🎯 Remember:** This is all just for fun. I'm not trying to be the next Zuckerberg – just a dude who likes building secure stuff in his free time. Sometimes I use AI tools like V0, Cursor, and DeepSeek to speed up development, but the AI is only as good as its operator. If you don't know what it wants to hear, it won't give you what you want. 😄
-
-</div>
 
 ---
 
@@ -160,7 +121,7 @@ if (you.likeBuildingStuff && you.dontMindAI) {
 
 <div align="center">
 
-*Last updated: 06. 08. 2025*
+*Last updated: 11. 09. 2025*
 
 ![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
 
